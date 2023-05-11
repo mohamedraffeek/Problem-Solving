@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639822043 source:c:\users\moham\desktop\problem 5 - simple function two\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

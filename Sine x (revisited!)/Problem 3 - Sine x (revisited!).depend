@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639819706 source:c:\users\moham\desktop\problem 3 - sine x (revisited!)\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

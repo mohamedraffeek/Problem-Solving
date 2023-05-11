@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639213761 source:c:\users\moham\desktop\problem 5 - the greatest common divisors\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
